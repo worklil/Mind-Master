@@ -1,0 +1,27 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Quiz</title>
+    <link rel="stylesheet" href="{% static 'quiz-style.css' %}">
+
+</head>
+<body>
+<div class="app">
+    <h1>Quiz</h1>
+    <div class="quiz">
+        <h2 id="question">Question goes here</h2>
+        <div id="answer-buttons">
+            <button class="btn" type="button">Answer 1</button>
+            <button class="btn" type="button">Answer 2</button>
+            <button class="btn" type="button" >Answer 3</button>
+            <button class="btn" type="button">Answer 4</button>
+        </div>
+        <button id="next-btn">Next</button>
+    </div>
+</div>
+    <script src="{% static 'quiz-script.js' %}"></script>
+</body>
+</html>

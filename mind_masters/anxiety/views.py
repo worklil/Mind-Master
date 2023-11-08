@@ -1,6 +1,5 @@
 from django.http import HttpResponse
 from django.shortcuts import render
-
 # Create your views here.
 
 
@@ -11,3 +10,6 @@ def index(request):
 def get_graeme_status(request):
     return HttpResponse("<h1>Graeme is a dick</h1>")
 
+
+def get_quiz(request):
+    return render(request, 'quiz-html.html')
