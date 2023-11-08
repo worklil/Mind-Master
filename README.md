@@ -7,36 +7,36 @@ We are working on project "Mind Master"
 - Anti-anxiety exercises and study aids/games: Integration of external libraries or APIs
 
 
-Anxiety management 
+# Anxiety management 
 
-Deep Breathing Exercise:
+### Deep Breathing Exercise:
 Guided deep breathing exercises to help users relax and focus.
 
-Mindful Meditation:
+### Mindful Meditation:
 Short mindfulness meditation sessions to promote relaxation and reduce stress.
 
-Progressive Muscle Relaxation (PMR):
+### Progressive Muscle Relaxation (PMR):
 A guided PMR session to help users release tension from different muscle groups.
 
-Visualization Exercise:
+### Visualization Exercise:
 Encourage users to imagine a peaceful scene or a place where they feel calm and safe.
 
-Gratitude Journal:
+### Gratitude Journal:
 A digital space for users to jot down things they're grateful for, promoting a positive mindset.
 
-Grounding Techniques:
+### Grounding Techniques:
 Quick exercises like the 5-4-3-2-1 technique to bring attention to the present moment.
 
-Affirmations:
+### Affirmations:
 Positive affirmations to boost confidence and alleviate negative thoughts.
 
-Nature Sounds and Relaxing Music:
+### Nature Sounds and Relaxing Music:
 Provide a selection of calming sounds or music to create a soothing atmosphere.
 
-Guided Imagery for Stress Relief:
+### Guided Imagery for Stress Relief:
 Narrated scenarios guiding users through calming and stress-relieving visualizations.
 
-Quick Stress Busters:
+### Quick Stress Busters:
 Fun and simple activities that can be done in a few minutes to break the cycle of stress.
 
 
